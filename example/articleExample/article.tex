@@ -1,0 +1,40 @@
+\documentclass[a4paper, 11pt]{article}
+
+\usepackage{xcolor}
+\input{../../templates/couleurs.tex}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[francais]{babel}
+\usepackage{lipsum}
+\usepackage[top=1.7cm, bottom=1.7cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage{verbatim}
+\usepackage{tikz} %Vectoriel
+\usepackage{pgfplots}
+\usepackage{listings}
+\usepackage{fancyhdr}
+\usepackage{multido}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage[urlbordercolor={1 1 1}, linkbordercolor={1 1 1}, linkcolor=vert1, urlcolor=bleu, colorlinks=true]{hyperref}
+
+\newcommand{\titre}{Example of article}
+\newcommand{\numero}{1}
+\newcommand{\typeDoc}{DM}
+\newcommand{\module}{Subject}
+\newcommand{\sigle}{SUB}
+\newcommand{\semestre}{7}
+\newcommand{\auteur}{Antoine de Roquemaurel (Groupe 1.1)}
+
+\input{../../templates/classroomsTemplates/l3/tddm.tex}
+\input{../../templates/listings.tex} %prise en charge du langage C 
+\input{../../templates/classroomsTemplates/l3/remarquesExempleAttention.tex}
+\input{../../templates/polices.tex}
+\input{../../templates/affichageChapitre.tex}
+\makeatother
+\begin{document}
+	\maketitle
+	\section{Example}
+	\lipsum
+\end{document}
