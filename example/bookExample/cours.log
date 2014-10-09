@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.4.7)  9 OCT 2014 18:37
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.4.7)  9 OCT 2014 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1331,21 +1331,21 @@ File: ttlkeys.def 2011/12/15
 (../../templates/cover/couverture.tex) (./cours.aux)
 \openout1 = `cours.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 47.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1364,9 +1364,9 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \makeMPintoPDFobject=\count327
 \everyMPtoPDFconversion=\toks50
 )
-LaTeX Info: Redefining \degres on input line 46.
-LaTeX Info: Redefining \dots on input line 46.
-LaTeX Info: Redefining \up on input line 46.
+LaTeX Info: Redefining \degres on input line 47.
+LaTeX Info: Redefining \dots on input line 47.
+LaTeX Info: Redefining \up on input line 47.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1403,7 +1403,7 @@ LaTeX Info: Redefining \up on input line 46.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring ON on input line 46.
+Package hyperref Info: Link coloring ON on input line 47.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -1412,9 +1412,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count328
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
 
 (./cours.out) (./cours.out)
 \@outlinefile=\write7
@@ -1469,96 +1469,96 @@ Package minitoc(hints) Warning: W0023
 
 \drop=\skip128
 
-</home/aroquemaurel/cours/includesLaTeX/ups.jpg, id=35, 963.6pt x 324.21124pt>
+</home/aroquemaurel/cours/includesLaTeX/ups.jpg, id=43, 963.6pt x 324.21124pt>
 File: /home/aroquemaurel/cours/includesLaTeX/ups.jpg Graphic file (type jpg)
 
 <use /home/aroquemaurel/cours/includesLaTeX/ups.jpg>
 Package pdftex.def Info: /home/aroquemaurel/cours/includesLaTeX/ups.jpg used on
- input line 48.
+ input line 49.
 (pdftex.def)             Requested size: 113.81102pt x 38.29022pt.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 48.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 49.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 48.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 49.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 49.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 48.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 49.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 48.
+(Font)              <6> on input line 49.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 48.
-LaTeX Font Info:    Try loading font information for U+msa on input line 48.
+(Font)              <5> on input line 49.
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 48.
+(Font)              <12> on input line 49.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <8> on input line 49.
 
 
 Package minitoc Warning: W0010
 (minitoc)                No file cours.toc. 
-(minitoc)                MINITOCS NOT PREPARED on input line 50.
+(minitoc)                MINITOCS NOT PREPARED on input line 51.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/aroquemaurel/cours/i
 ncludesLaTeX/ups.jpg>]
 Chapitre 1.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 54.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 55.
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for T1+pag on input line 55.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 
 LaTeX Font Warning: Font shape `T1/pag/bc/n' undefined
-(Font)              using `T1/pag/m/n' instead on input line 55.
+(Font)              using `T1/pag/m/n' instead on input line 56.
 
-Package mdframed Info: mdframed works in twoside mode on input line 56.
+Package mdframed Info: mdframed works in twoside mode on input line 57.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theoerem header of amsthm
-(mdframed)              on input line 56.
-Package mdframed Info: mdframed works in twoside mode on input line 65.
+(mdframed)              on input line 57.
+Package mdframed Info: mdframed works in twoside mode on input line 66.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theoerem header of amsthm
-(mdframed)              on input line 65.
+(mdframed)              on input line 66.
 [2
 
 ]
-Package mdframed Info: mdframed works in twoside mode on input line 69.
+Package mdframed Info: mdframed works in twoside mode on input line 70.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theoerem header of amsthm
-(mdframed)              on input line 69.
-Package mdframed Info: mdframed works in twoside mode on input line 73.
+(mdframed)              on input line 70.
+Package mdframed Info: mdframed works in twoside mode on input line 74.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theoerem header of amsthm
-(mdframed)              on input line 73.
+(mdframed)              on input line 74.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1579,16 +1579,16 @@ Chapitre 2.
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 81.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 81.
+nput line 82.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 82.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 82.
+(Font)              <10> on input line 83.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 82.
+(Font)              <7> on input line 83.
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
@@ -1616,33 +1616,27 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the cours.log file.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
 [6
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (./cours.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+Package rerunfilecheck Info: File `cours.out' has not changed.
+(rerunfilecheck)             Checksum: 2449D767B0E69DAB841BA760D74B1E85;458.
 
-
-Package rerunfilecheck Warning: File `cours.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cours.out':
-(rerunfilecheck)             Before: 4CDB20C410DE74648D207A5BAF2932C6;357
-(rerunfilecheck)             After:  2449D767B0E69DAB841BA760D74B1E85;458.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 26814 strings out of 495030
- 446332 string characters out of 3180762
- 667596 words of memory out of 3000000
- 29198 multiletter control sequences out of 15000+200000
+ 26817 strings out of 495030
+ 446363 string characters out of 3180762
+ 667625 words of memory out of 3000000
+ 29201 multiletter control sequences out of 15000+200000
  100731 words of font info for 77 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  56i,11n,57p,978b,1325s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1659,10 +1653,10 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/symbols/msam7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/
 uagk8a.pfb>
-Output written on cours.pdf (6 pages, 334731 bytes).
+Output written on cours.pdf (6 pages, 334924 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
+ 157 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 90 words of extra memory for PDF output out of 10000 (max. 10000000)
 
