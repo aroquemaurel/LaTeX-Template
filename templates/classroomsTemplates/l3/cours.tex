@@ -44,6 +44,9 @@
 \end{flushright}
 \vspace{1cm}
 \vfill
+\begin{center}
+	\auteur
+\end{center}
 \vfill
 \bas{}{\@location, le \@date}{}
 }%
@@ -60,12 +63,12 @@
 \location{Amiens}\blurb{}
 \makeatother
 \title{\titre}
-\author{Semestre \semestre}
+\author{\subtitle}
 
 \location{Toulouse}
 \blurb{%
 Université Toulouse III -- Paul sabatier\\
-L2 Informatique\\
+M2 Développement Logiciel
 }%
 
 
@@ -91,13 +94,13 @@ L2 Informatique\\
 \fancyhead[LE]{\leftmark}
 \fancyhead[RO]{\rightmark}
 \fancyfoot[LE,RO]{--~\thepage~--}
-\fancyfoot[LO]{\titre{}~~---~~\sigle{}\semestre{}}
-\fancyfoot[RE]{\auteur}
+\fancyfoot[LO]{\titre{} \subtitle}
+\fancyfoot[RE]{\logoFooter}
 
 %% Cas des premières pages de chapitre
 \fancypagestyle{plain}{%
 	\fancyhf{}%
-	\fancyfoot[L]{\titre{}~~---~~\sigle{}\semestre{}}
+	\fancyfoot[L]{\titre{} \subtitle}
 	\fancyfoot[R]{--~\thepage~--}
 	\renewcommand{\headrulewidth}{0pt}
 	\renewcommand{\footrulewidth}{0.3pt}
